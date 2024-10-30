@@ -7,5 +7,6 @@ dependencies:
   - r-ggplot2
   - r-ggeffects
   - r-see
+  - r-emmeans
   - r-knitr
   - r-rmarkdown
