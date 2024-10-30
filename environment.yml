@@ -1,0 +1,11 @@
+name: social_inequalities_loneliness
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-ggplot2
+  - r-ggeffects
+  - r-see
+  - r-knitr
+  - r-rmarkdown
